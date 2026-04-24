@@ -1,0 +1,11 @@
+package Pilas_Colas;
+// =========================
+class Nodo {
+    String pagina;
+    Nodo siguiente;
+
+    public Nodo(String pagina) {
+        this.pagina = pagina;
+        this.siguiente = null;
+    }
+}
