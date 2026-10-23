@@ -1,0 +1,1 @@
+cuanTOS NODOs SE VISTAN PARA recorrer completamente el arbol, 2 cual seria t en funcion de n para cualquiera de los tres recorridas, 3 que complejidad temporal tiene 4) cual es la diferencia entre recorrer todo el arbol y buscar un solo elemento, 5) que ocurre con la biusqueda cuando el bst se convierte en una cadena
